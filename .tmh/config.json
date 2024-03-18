@@ -1,0 +1,9 @@
+{
+  "issueKeyTestcaseValues": {},
+  "testManagerBasePath": "https://cloud.uipath.com/intelclhwnvo/defaulttenant/testmanager_/",
+  "defaultProject": {
+    "id": "b2e643a0-5f2f-0000-1a5e-0b467a3761fd",
+    "name": "All_Combine_TestCases",
+    "key": "ALL"
+  }
+}
